@@ -22,3 +22,5 @@ storage/public/uploads
 php artisan serve
 
 http://127.0.0.1:8000/upload-file
+
+https://www.positronx.io/laravel-file-upload-with-validation/
